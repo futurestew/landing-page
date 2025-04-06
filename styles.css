@@ -124,3 +124,22 @@ a {
 .info .text {
     text-align: center;
 }
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+
+.quote-text-signature {
+    font-size: 18px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+}
